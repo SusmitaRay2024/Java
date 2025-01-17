@@ -1,4 +1,4 @@
-package com.corporatesguide.java;
+
 
 public class Car {
     // Attributes
